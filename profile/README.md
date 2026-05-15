@@ -66,8 +66,25 @@ VLESS (Reality / XHTTP / XTLS-Vision), VMess, Trojan, Shadowsocks, NaiveProxy, H
 
 ## 📦 Open-source components
 
-- [inhive-core](https://github.com/TwilgateLabs/inhive-core) — Go core (sing-box fork), high-performance proxy engine
+**Core**
+
+- [inhive-core](https://github.com/TwilgateLabs/inhive-core) — Go proxy core, high-performance engine that powers the apps
+- [inhive-sing-box](https://github.com/TwilgateLabs/inhive-sing-box) — our sing-box fork with WARP, Psiphon, XHTTP, AmneziaWG patches
+- [utproto](https://github.com/TwilgateLabs/utproto) — FakeTLS transport with MTProto-style wire mimicry, standalone Go module
+- [inhive-ray2sing](https://github.com/TwilgateLabs/inhive-ray2sing) — V2Ray / Xray config converter to sing-box format
+
+**Rule sets & configs**
+
 - [inhive-rules](https://github.com/TwilgateLabs/inhive-rules) — geosite / geoip rule sets, auto-rebuilt every 6 hours
+- [inhive-public-config](https://github.com/TwilgateLabs/inhive-public-config) — public bootstrap config mirror for DPI-blocked regions
+
+**Transport dependency forks**
+
+- [inhive-wireguard-go](https://github.com/TwilgateLabs/inhive-wireguard-go) — WireGuard-Go fork
+- [inhive-sing-dns](https://github.com/TwilgateLabs/inhive-sing-dns) — extended DNS library for sing-box
+- [inhive-psiphon-quic-go](https://github.com/TwilgateLabs/inhive-psiphon-quic-go) — Psiphon's QUIC fork
+- [inhive-psiphon-tls](https://github.com/TwilgateLabs/inhive-psiphon-tls) — Psiphon's TLS fork
+- [inhive-tailscale](https://github.com/TwilgateLabs/inhive-tailscale) — Tailscale fork (WireGuard pieces)
 
 ## ⚖️ Legal
 
