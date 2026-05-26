@@ -25,7 +25,7 @@
 
 ## 🔌 Supported protocols
 
-VLESS (Reality / XHTTP / XTLS-Vision), VMess, Trojan, Shadowsocks, NaiveProxy, Hysteria2, TUIC, WireGuard, AmneziaWG, Mieru, DNSTT, SSH
+VLESS (Reality / XHTTP / XTLS-Vision / gRPC / WebSocket / HTTPUpgrade / QUIC), VMess, Trojan, ShadowTLS, AnyTLS, Shadowsocks, NaiveProxy, Hysteria, Hysteria2, TUIC, WireGuard, AmneziaWG, Mieru, DNSTT, SSH, SOCKS, HTTP, Tor, Tailscale, Psiphon, UTProto
 
 ## 📦 Open-source components
 
