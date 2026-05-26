@@ -10,7 +10,7 @@
 |---|---|
 | **Android** | [![APK](https://img.shields.io/badge/APK-Universal-044d29?style=flat-square&logo=android&logoColor=white)](https://github.com/TwilgateLabs/inhive-android/releases/latest/download/InHive.apk) |
 | **Windows** | [![Setup](https://img.shields.io/badge/Setup-x64-2d7d9a?style=flat-square&logo=windows&logoColor=white)](https://github.com/TwilgateLabs/inhive-windows/releases/latest/download/InHive-setup.exe) |
-| **iOS** | ![TestFlight](https://img.shields.io/badge/TestFlight-Soon-9e9e9e?style=flat-square&logo=apple&logoColor=white) |
+| **iOS** | [![TestFlight](https://img.shields.io/badge/TestFlight-Request_invite-1976d2?style=flat-square&logo=apple&logoColor=white)](https://t.me/InHive_support_bot) |
 | **macOS** | ![DMG](https://img.shields.io/badge/DMG-Soon-9e9e9e?style=flat-square&logo=apple&logoColor=white) |
 | **Linux** | ![Planned](https://img.shields.io/badge/Planned-9e9e9e?style=flat-square&logo=linux&logoColor=white) |
 
