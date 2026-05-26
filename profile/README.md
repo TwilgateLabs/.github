@@ -1,63 +1,26 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/TwilgateLabs/.github/main/assets/logo.png" width="120" alt="InHive">
-  <h1>InHive — Next-gen VPN Client</h1>
-  <p><strong>Modern VPN protocols. Built for privacy.</strong></p>
-  <p>
-    <a href="https://app.inhive.ru"><img src="https://img.shields.io/badge/Website-app.inhive.ru-F2B454?style=flat-square" alt="Website"></a>
-    <a href="https://t.me/InHive_support_bot"><img src="https://img.shields.io/badge/Telegram-support-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  </p>
+  <h1>InHive</h1>
+  <p>VPN client. Your subscription, your servers, your privacy.</p>
 </div>
 
 ## 📥 Downloads
 
-<table>
-  <thead>
-    <tr><th>OS</th><th>Download</th></tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Android</strong></td>
-      <td>
-        <a href="https://github.com/TwilgateLabs/inhive-android/releases/latest"><img src="https://img.shields.io/badge/APK-Universal-044d29?style=flat-square&logo=android&logoColor=white" alt="APK"></a>
-        <a href="https://github.com/TwilgateLabs/inhive-android/releases"><img src="https://img.shields.io/badge/Beta-Pre--release-7c4dff?style=flat-square&logo=android&logoColor=white" alt="Beta"></a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>iOS</strong></td>
-      <td>
-        <a href="https://github.com/TwilgateLabs/inhive-ios"><img src="https://img.shields.io/badge/TestFlight-Beta-1976d2?style=flat-square&logo=apple&logoColor=white" alt="TestFlight"></a>
-        <a href="https://github.com/TwilgateLabs/inhive-ios"><img src="https://img.shields.io/badge/App_Store-Soon-9e9e9e?style=flat-square&logo=apple&logoColor=white" alt="App Store"></a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Windows</strong></td>
-      <td>
-        <a href="https://github.com/TwilgateLabs/inhive-windows/releases/latest"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a?style=flat-square&logo=windows&logoColor=white" alt="Windows x64"></a>
-        <a href="https://github.com/TwilgateLabs/inhive-windows/releases/latest"><img src="https://img.shields.io/badge/Portable-zip-2d7d9a?style=flat-square&logo=windows&logoColor=white" alt="Portable"></a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>macOS</strong></td>
-      <td>
-        <a href="https://github.com/TwilgateLabs/inhive-macos"><img src="https://img.shields.io/badge/DMG-Soon-9e9e9e?style=flat-square&logo=apple&logoColor=white" alt="macOS"></a>
-        <a href="https://github.com/TwilgateLabs/inhive-macos"><img src="https://img.shields.io/badge/Mac_App_Store-Soon-9e9e9e?style=flat-square&logo=apple&logoColor=white" alt="MAS"></a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Linux</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Planned-v1.X-9e9e9e?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-      </td>
-    </tr>
-  </tbody>
-</table>
+| OS | Download |
+|---|---|
+| **Android** | [![APK](https://img.shields.io/badge/APK-Universal-044d29?style=flat-square&logo=android&logoColor=white)](https://github.com/TwilgateLabs/inhive-android/releases/latest/download/InHive.apk) |
+| **Windows** | [![Setup](https://img.shields.io/badge/Setup-x64-2d7d9a?style=flat-square&logo=windows&logoColor=white)](https://github.com/TwilgateLabs/inhive-windows/releases/latest/download/InHive-setup.exe) |
+| **iOS** | ![TestFlight](https://img.shields.io/badge/TestFlight-Soon-9e9e9e?style=flat-square&logo=apple&logoColor=white) |
+| **macOS** | ![DMG](https://img.shields.io/badge/DMG-Soon-9e9e9e?style=flat-square&logo=apple&logoColor=white) |
+| **Linux** | ![Planned](https://img.shields.io/badge/Planned-9e9e9e?style=flat-square&logo=linux&logoColor=white) |
 
 ## 🌐 Links
 
 - **Website:** [app.inhive.ru](https://app.inhive.ru)
 - **Documentation:** [Developer Docs](https://app.inhive.ru/#/dev)
-- **FAQ:** [Frequently Asked Questions](https://app.inhive.ru/#/faq)
-- **Privacy Policy:** [Privacy](https://app.inhive.ru/#/privacy)
+- **FAQ:** [app.inhive.ru/#/faq](https://app.inhive.ru/#/faq)
+- **Privacy Policy:** [app.inhive.ru/#/privacy](https://app.inhive.ru/#/privacy)
+- **Get a subscription:** [@InHive_bot](https://t.me/InHive_bot)
 - **Support:** [@InHive_support_bot](https://t.me/InHive_support_bot)
 
 ## 🔌 Supported protocols
@@ -85,6 +48,12 @@ VLESS (Reality / XHTTP / XTLS-Vision), VMess, Trojan, Shadowsocks, NaiveProxy, H
 - [inhive-psiphon-quic-go](https://github.com/TwilgateLabs/inhive-psiphon-quic-go) — Psiphon's QUIC fork
 - [inhive-psiphon-tls](https://github.com/TwilgateLabs/inhive-psiphon-tls) — Psiphon's TLS fork
 - [inhive-tailscale](https://github.com/TwilgateLabs/inhive-tailscale) — Tailscale fork (WireGuard pieces)
+
+## 👩‍🏫 Community
+
+| Platform | Join |
+|---|---|
+| Telegram | [![InHive_club](https://img.shields.io/badge/-InHive__club-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/InHive_club) |
 
 ## ⚖️ Legal
 
