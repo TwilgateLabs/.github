@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support / TestFlight invite
+    url: https://t.me/InHive_support_bot
+    about: Get help, request an iOS TestFlight invite, or ask a question.
+  - name: Community
+    url: https://t.me/InHive_club
+    about: Chat with other InHive users.
+  - name: Security vulnerability
+    url: https://github.com/TwilgateLabs/inhive-core/security/advisories/new
+    about: Report security issues privately — do not open a public issue.
